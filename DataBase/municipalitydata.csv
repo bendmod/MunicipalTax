@@ -1,0 +1,9 @@
+MunicipalityName;TaxType;PeriodStart;PeriodEnd;Rate
+Fredensborg;Daily;23-05-2021;23-05-2021;0.2
+Fredensborg;Weekly;01-02-2021;08-02-2021;0.9
+Fredensborg;Monthly;01-04-2021;30-04-2021;0.3
+Fredensborg;Yearly;01-01-2021;31-12-2021;0.1
+Kolding;Daily;23-05-2021;23-05-2021;0.2
+Kolding;Weekly;01-02-2021;08-02-2021;0.9
+Kolding;Monthly;01-04-2021;30-04-2021;0.3
+Kolding;Yearly;01-01-2021;31-12-2021;0.1
